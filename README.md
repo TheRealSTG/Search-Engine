@@ -1,4 +1,4 @@
-This is a search engine/indexer written in pythonn that takes a document that we want to perform search on turns them into a concordance(a count of ever word that occurs in a document).
+This is a search engine/indexer written in python that takes a document that we want to perform search on turns them into a concordance(a count of ever word that occurs in a document).
 
 It then uses a vector space to perform the search.
 
